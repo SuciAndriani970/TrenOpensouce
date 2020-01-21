@@ -1,0 +1,2 @@
+# TrenOpensouce
+Pengumpulan tugas kuliah 
